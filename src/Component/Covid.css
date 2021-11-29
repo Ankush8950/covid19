@@ -1,0 +1,11 @@
+.card_div h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card_details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
